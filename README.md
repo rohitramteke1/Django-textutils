@@ -1,5 +1,5 @@
 # Django-textutils
-## How the Interface looks like
+## This is how the interface looks like
 ![image](https://user-images.githubusercontent.com/93675760/215281937-da15e585-e629-4819-916b-ac7358212d96.png)
 
 ## Taking an input in the text-box
